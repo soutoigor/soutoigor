@@ -6,8 +6,8 @@ Always learning new things, improving the fundamentals, and making new projects.
 
 ## Main stack ⚙️
 
-| <img height="40px" src="https://cdn.svgporn.com/logos/html-5.svg"> | <img height="40px" src="https://cdn.svgporn.com/logos/css-3.svg"> | <img height="40px" src="https://cdn.svgporn.com/logos/javascript.svg"> | <img height="40px" src="https://cdn.svgporn.com/logos/vue.svg"> | <img height="40px" src="https://i.ibb.co/MGPxg7q/nodejs-logo-FBE122-E377-seeklogo-com.png"> | <img height="40px" src="https://i.ibb.co/mGV04pc/320px-React-icon-svg.png"> | <img height ="40px" src="https://i.ibb.co/HCj91Cj/docker-13-1175230.png"> | **and more...** |
-|---|---|---|---|---|---|---|---|
+| <img height="40px" src="https://cdn.svgporn.com/logos/html-5.svg"> | <img height="40px" src="https://cdn.svgporn.com/logos/css-3.svg"> | <img height="40px" src="https://cdn.svgporn.com/logos/javascript.svg"> |  <img height="40px" src="https://i.ibb.co/VNPqfYw/Stylus-logo-svg.png"> | <img height="40px" src="https://cdn.svgporn.com/logos/vue.svg"> | <img height="40px" src="https://i.ibb.co/mGV04pc/320px-React-icon-svg.png">  | <img height="40px" src="https://i.ibb.co/MGPxg7q/nodejs-logo-FBE122-E377-seeklogo-com.png"> | <img height ="40px" src="https://i.ibb.co/HCj91Cj/docker-13-1175230.png"> | **and more...** |
+|---|---|---|---|---|---|---|---|---|
 
 
 ### Other Accounts 📫
