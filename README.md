@@ -16,5 +16,3 @@ You can get in contact or see what I'm learning with those links:
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/soutoigor) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/soutoigor)| [<img src="https://i.ibb.co/H2fR0d7/download.png" alt="linkedin" width="24">](https://www.linkedin.com/in/igor-souto/)| [<img src="https://i.ibb.co/KK7YJ1D/gmail-email-logo-png-16.png" alt="email" width="24">](mailto:igor_souto@outlook.com)| 
 |---|---|---|---|
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=soutoigor.soutoigor)
