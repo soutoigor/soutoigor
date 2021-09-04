@@ -7,7 +7,7 @@ I'm Co-host of [GoHorseCast](https://open.spotify.com/show/5mvb3S3DK0pzU8OxvbJwY
 
 ## Main stack ⚙️
 
-| <img height="40px" src="https://cdn.svgporn.com/logos/html-5.svg"> | <img height="40px" src="https://cdn.svgporn.com/logos/css-3.svg"> | <img height="40px" src="https://cdn.svgporn.com/logos/javascript.svg"> |  <img height="40px" src="https://i.ibb.co/VNPqfYw/Stylus-logo-svg.png"> | <img height="40px" src="https://cdn.svgporn.com/logos/vue.svg"> | <img height="40px" src="https://i.ibb.co/mGV04pc/320px-React-icon-svg.png">  | <img height="40px" src="https://i.ibb.co/MGPxg7q/nodejs-logo-FBE122-E377-seeklogo-com.png"> | <img height ="40px" src="https://i.ibb.co/HCj91Cj/docker-13-1175230.png"> | **and more...** |
+| <img height="40px" src="https://cdn.svgporn.com/logos/html-5.svg"> | <img height="40px" src="https://cdn.svgporn.com/logos/css-3.svg"> | <img height="40px" src="https://cdn.svgporn.com/logos/javascript.svg"> |  <img height="40px" src="https://i.ibb.co/JHgsKfg/1-mn6b-Os7s6-Qbao15-PMNRy-OA.png"> | <img height="40px" src="https://cdn.svgporn.com/logos/vue.svg"> | <img height="40px" src="https://i.ibb.co/mGV04pc/320px-React-icon-svg.png">  | <img height="40px" src="https://i.ibb.co/MGPxg7q/nodejs-logo-FBE122-E377-seeklogo-com.png"> | <img height ="40px" src="https://i.ibb.co/HCj91Cj/docker-13-1175230.png"> | **and more...** |
 |---|---|---|---|---|---|---|---|---|
 
 
