@@ -2,7 +2,6 @@
 
 I'm a Software Engineer, with focus on front-end development.  
 Always learning new things, improving the fundamentals, and making new projects. 🚀  
-I'm Co-host of [GoHorseCast](https://open.spotify.com/show/5mvb3S3DK0pzU8OxvbJwYj) program.
 
 
 ## Main stack ⚙️
